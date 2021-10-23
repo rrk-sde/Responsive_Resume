@@ -131,12 +131,4 @@ h3 {
     }
 }
 
-@media only screen and (max-width: 960px) {
-    section {
-        flex-direction: row;
-        /* justify-content: space-evenly; */
-    }
-    html {
-        margin: 0 40%;
-    }
-}
+
